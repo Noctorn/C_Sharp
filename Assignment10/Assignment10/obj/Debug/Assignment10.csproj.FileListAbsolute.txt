@@ -1,0 +1,7 @@
+Z:\C#\Day1\Assignment10\Assignment10\bin\Debug\Assignment10.exe.config
+Z:\C#\Day1\Assignment10\Assignment10\bin\Debug\Assignment10.exe
+Z:\C#\Day1\Assignment10\Assignment10\bin\Debug\Assignment10.pdb
+Z:\C#\Day1\Assignment10\Assignment10\obj\Debug\Assignment10.csproj.AssemblyReference.cache
+Z:\C#\Day1\Assignment10\Assignment10\obj\Debug\Assignment10.csproj.CoreCompileInputs.cache
+Z:\C#\Day1\Assignment10\Assignment10\obj\Debug\Assignment10.exe
+Z:\C#\Day1\Assignment10\Assignment10\obj\Debug\Assignment10.pdb

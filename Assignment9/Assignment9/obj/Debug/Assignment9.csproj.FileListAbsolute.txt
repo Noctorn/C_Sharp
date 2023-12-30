@@ -1,0 +1,7 @@
+Z:\C#\Day1\Assignment9\Assignment9\bin\Debug\Assignment9.exe.config
+Z:\C#\Day1\Assignment9\Assignment9\bin\Debug\Assignment9.exe
+Z:\C#\Day1\Assignment9\Assignment9\bin\Debug\Assignment9.pdb
+Z:\C#\Day1\Assignment9\Assignment9\obj\Debug\Assignment9.csproj.AssemblyReference.cache
+Z:\C#\Day1\Assignment9\Assignment9\obj\Debug\Assignment9.csproj.CoreCompileInputs.cache
+Z:\C#\Day1\Assignment9\Assignment9\obj\Debug\Assignment9.exe
+Z:\C#\Day1\Assignment9\Assignment9\obj\Debug\Assignment9.pdb

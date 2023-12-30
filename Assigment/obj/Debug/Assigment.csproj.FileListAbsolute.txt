@@ -1,0 +1,7 @@
+Z:\C#\Day1\Assigment\bin\Debug\Assigment.exe.config
+Z:\C#\Day1\Assigment\bin\Debug\Assigment.exe
+Z:\C#\Day1\Assigment\bin\Debug\Assigment.pdb
+Z:\C#\Day1\Assigment\obj\Debug\Assigment.csproj.AssemblyReference.cache
+Z:\C#\Day1\Assigment\obj\Debug\Assigment.csproj.CoreCompileInputs.cache
+Z:\C#\Day1\Assigment\obj\Debug\Assigment.exe
+Z:\C#\Day1\Assigment\obj\Debug\Assigment.pdb

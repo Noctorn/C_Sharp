@@ -1,0 +1,7 @@
+Z:\C#\Day1\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+Z:\C#\Day1\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+Z:\C#\Day1\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+Z:\C#\Day1\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+Z:\C#\Day1\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+Z:\C#\Day1\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+Z:\C#\Day1\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
